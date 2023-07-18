@@ -1,0 +1,78 @@
+* {
+
+    margin: 0;
+    
+    padding: 0;
+    
+    }
+    
+     
+    
+    .container {
+    
+    background-color: #eaeaea;
+    display: flex;
+    flex-flow: row wrap;
+   justify-content: space-evenly;
+    align-items: center;
+ 
+     border: 1px solid red;
+    }
+    
+     
+    
+    .container .container__item1 {
+    
+    border: 1px solid green;
+    
+    padding: 50px;
+    
+    background-color: rgb(159, 203, 159);
+    
+    color: green;
+    
+    }
+    .container .container__item2 {
+    
+        border: 1px solid green;
+        
+        padding: 50px;
+        
+        background-color: rgb(168, 159, 203);
+        
+        color: green;
+        
+        }
+        .container .container__item3 {
+    
+            border: 1px solid green;
+            
+            padding: 50px;
+            
+            background-color: rgb(216, 18, 100);
+            
+            color: green;
+            
+            }
+            .container .container__item4 {
+    
+                border: 1px solid green;
+                
+                padding: 20px;
+                
+                background-color: rgb(197, 238, 12);
+                
+                color: green;
+                
+                }
+                .container .container__item5 {
+    
+                    border: 1px solid green;
+                    
+                    padding: 50px;
+                    
+                    background-color: rgb(2, 36, 2);
+                    
+                    color: green;
+                    
+                    }
